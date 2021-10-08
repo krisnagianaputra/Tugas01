@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+
+// ck
 class Tugas01 {
     public void piramida(int value){
         if (value%2 == 0){
